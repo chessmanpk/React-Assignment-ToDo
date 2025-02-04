@@ -72,7 +72,9 @@ This will run all the test files using Jest and React Testing Library.
 
 
 
-Challenges Faced and Solutions1. Handling Component State
+Challenges Faced and Solutions
+
+1. Handling Component State
 Managing the state of multiple components and ensuring they update correctly in response to user actions was a bit challenging. This was resolved by using React's state hooks (useState) and effect hooks (useEffect) to manage and synchronize state between components.
 
 2. Local Storage Integration
@@ -82,7 +84,3 @@ Persisting the to-do list in the browser's local storage required careful handli
 Writing tests for the components to cover various scenarios was a learning curve, especially for simulating user interactions with fireEvent. By leveraging Jest and React Testing Library, comprehensive tests were written to ensure the components render correctly and handle user actions as expected.
 
 .....
-
-Activity added: 2025-02-04 13:15:52
-
-Activity added: 2025-02-04 13:16:10
