@@ -17,7 +17,3 @@ Integer eget arcu orci. Mauris blandit commodo enim et egestas. Nunc dapibus int
 
 Aenean ultrices suscipit massa et hendrerit. Ut vehicula libero leo, sed faucibus arcu elementum id. Aliquam erat volutpat. Phasellus velit purus, mattis in imperdiet mollis, semper ut augue. 
 Mauris sit amet fringilla ligula. Morbi ut ligula eleifend, vestibulum ante ut, facilisis ligula. Nullam justo ipsum, consectetur sed leo ac, posuere tristique risus.
-
-Activity added: 2025-02-05 11:14:31
-
-Activity added: 2025-02-05 11:14:50
