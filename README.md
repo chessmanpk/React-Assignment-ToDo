@@ -84,11 +84,3 @@ Persisting the to-do list in the browser's local storage required careful handli
 Writing tests for the components to cover various scenarios was a learning curve, especially for simulating user interactions with fireEvent. By leveraging Jest and React Testing Library, comprehensive tests were written to ensure the components render correctly and handle user actions as expected.
 
 .....
-
-Activity added: 2025-02-05 11:45:11
-
-Activity added: 2025-02-05 11:45:29
-
-Activity added: 2025-02-05 17:48:36
-
-Activity added: 2025-02-05 17:48:53
