@@ -1,18 +1,11 @@
-Hi
+Hi, Welcome to my Repo!
 
-Nice to meet you, How are you doing?
-What is your current Passion
-What do you really want?
+Hope you are doing fine.
 
-What can you do for me?
+If you like my ToDo list, you can just clone the Repo and enjoy using this for your Daily tasks.
 
-How can you be helpful to me?
+And if you want to add some of your own functionality, you can also do that in the clone Repo.
 
-Can you at least tell me something?
-Leo - our cat: He was out all night last night, and then he came back in the morning, he hasn't spoke a word since then.
+Thank You very Much for comming to my Repo and I hope You like it, enjoy your time here.
 
-Can you imagine? this. Ahhh I'm so concerned about him, where would he went? What did he do? Can you think of something?
-
-There are multiple scenarios for this I think.
-
-
+Peace!
